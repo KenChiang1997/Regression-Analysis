@@ -27,3 +27,14 @@ final_project 3 -inplement result of kaggle titanic example and pic
 2. kaggle titanic train_data 
 3. kaggle titanic test_data
 
+#----------output pics-----------------!
+
+1. xilathon
+
+[Uploading project2_pic.png…]()
+
+2. kaggle 
+
+![project3_pic](https://user-images.githubusercontent.com/80143995/110239238-e76aa700-7f80-11eb-93d5-3688420e6d47.png)
+
+
