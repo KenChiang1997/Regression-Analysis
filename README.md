@@ -5,7 +5,7 @@
 Andrew Yang Course 
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
-NTHU QF financial econometrics project
+NTHU QF financial econometrics project [2020 fall semester]
 https://www.youtube.com/user/tonyy271828
 
 book - computer age statistical inference
