@@ -1,7 +1,7 @@
 # Logistic_Regression
 
 
-# --------------------------course and book ----------------------------------------------
+# --------------------------course and book ----------------------
 Andrew Yang Course 
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
@@ -11,7 +11,7 @@ https://www.youtube.com/user/tonyy271828
 book - computer age statistical inference
 
 
-# -----------------------code -----------------------------------------------------------------
+# -----------------------code --------------------------------------
 Logistic_regression.py - package of logistic regression 
 
 final_project 1 -inplement result of xliathon 
