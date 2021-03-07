@@ -27,7 +27,7 @@ final_project 3 -inplement result of kaggle titanic example and pic
 2. kaggle titanic train_data 
 3. kaggle titanic test_data
 
-#----------output pics-----------------!
+# ----------output pics-----------------
 
 1. xilathon
 
