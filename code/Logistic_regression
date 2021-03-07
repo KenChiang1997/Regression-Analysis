@@ -14,7 +14,7 @@ class LogisticRegression():
         return 1/(1 + np.exp(-z))
     def gradient_mse(self):   ## 我這邊先固定learning_rate=0.005,找出在每一次iteration下每一次的mse,當然我已經先找過這筆dataset才知道要設在1350~1500之間,這樣跑起來比較快><
         mse=[]
-        for k in range(1350,1500):
+        for k in range(1,2000):
             for _ in range(1,k,1):
                 y_pred=self._sigmoid(np.dot(self.x,self.w))
                 y_loss=y_pred-y
