@@ -31,7 +31,8 @@ final_project 3 -inplement result of kaggle titanic example and pic
 
 1. xilathon
 
-[Uploading project2_pic.png…]()
+![project2_pic](https://user-images.githubusercontent.com/80143995/110239251-f7828680-7f80-11eb-8e0a-ad6ce25c9a70.png)
+
 
 2. kaggle 
 
