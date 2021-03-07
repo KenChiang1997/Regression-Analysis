@@ -42,24 +42,6 @@ class LogisticRegression():
     def predict(self,x_data):   ##用梯度下降得到的權重w去做prediction
         y_pred=self._sigmoid(np.dot(x_data,self.w))
         return y_pred
-#-----------------------------clean_data----------------------------------------------------#
-#主要是將data換成我notation上的樣子
-data=pd.read_excel(r"/Users/chen-lichiang/Desktop/2020HW/財務計量經濟學/計量期末報告/xilathon.xlsx",index_col="dose")
-print(data)
-x=np.array(data.index)
-y=np.array(data["death"].values)
-x=x.reshape(-1,1)
-x=sm.add_constant(x)  ##用statsmodel.sm 的fnc 在x_dataset裡加入一排 (1*n)的vector
-y=y.reshape(-1,1)
-w=np.zeros(x.shape[1])
-w=w.reshape(-1,1)
-#------------------------build model-------------------------------------------------------#
-#用我class裡的fnc
-model=LogisticRegression(x,y)
-min_mse=model.gradient_mse()
-best_term=model.get_best_epochs()
-w=model.gradient()
-prediction=model.predict(x)
-print(w)
+
 
 
