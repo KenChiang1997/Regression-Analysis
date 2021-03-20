@@ -29,7 +29,20 @@ final_project 3 -inplement result of kaggle titanic example and pic
 
 # --------- infor -----------------------
 
-[計量期末報告(Final).pptx](https://github.com/KenChiang1997/Logistic_Regression/files/6174983/Final.pptx)
+![image](https://user-images.githubusercontent.com/80143995/111860830-24716900-8985-11eb-8178-d3f335c996b1.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111860838-2804f000-8985-11eb-9a04-1d1ecaaf1931.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111860841-2affe080-8985-11eb-9e22-fddc50d43be8.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111860845-2dfad100-8985-11eb-8819-e786ed7efe9b.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111860847-305d2b00-8985-11eb-900d-471b7fbb078f.png)
+
+![image](https://user-images.githubusercontent.com/80143995/111860855-436ffb00-8985-11eb-9ca3-081a007c8170.png)
+
+
+
 
 
 # ----------output pics-----------------
