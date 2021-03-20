@@ -27,6 +27,11 @@ final_project 3 -inplement result of kaggle titanic example and pic
 2. kaggle titanic train_data 
 3. kaggle titanic test_data
 
+# --------- infor -----------------------
+
+[計量期末報告(Final).pptx](https://github.com/KenChiang1997/Logistic_Regression/files/6174983/Final.pptx)
+
+
 # ----------output pics-----------------
 
 1. xilathon
