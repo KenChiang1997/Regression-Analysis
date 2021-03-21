@@ -1,5 +1,6 @@
 # Logistic_Regression
 
+author : " 江晨立 , ken chiang"
 
 # --------course and book -------------
 Andrew Yang Course 
