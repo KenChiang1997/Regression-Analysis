@@ -15,6 +15,10 @@ https://www.youtube.com/user/tonyy271828
 
 book - computer age statistical inference
 
+Fixed Effect - kaggle
+
+https://www.kaggle.com/ojwatson/mixed-models?select=data.csv
+
 
 # -------------code --------------------
 Logistic_regression.py - package of logistic regression 
