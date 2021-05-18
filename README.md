@@ -2,6 +2,8 @@ author : " 江晨立 , ken chiang"
 
 # Logistic_Regression
 
+# Fixed Effect 
+
 # --------course and book -------------
 Andrew Yang Course 
 
