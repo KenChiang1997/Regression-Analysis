@@ -13,6 +13,9 @@ NTHU QF Financial Econometrics Exercise [2020 fall semester]
 https://www.youtube.com/user/tonyy271828
 
 
+course contain include : linear algebra , statistical concept , classical least square theory , generalized least-square theory
+
+
 Fixed Effect - kaggle
 
 https://www.kaggle.com/ojwatson/mixed-models?select=data.csv
