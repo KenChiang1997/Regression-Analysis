@@ -4,23 +4,22 @@ author : " 江晨立 , ken chiang"
 
 
 # --------course and book -------------
-Andrew Yang Course 
-
-https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
-
 NTHU QF Financial Econometrics Exercise [2020 fall semester]
 
 https://www.youtube.com/user/tonyy271828
 
+Andrew Yang Course 
+
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
 Course Content : linear algebra , statistical concept , classical least square theory , generalized least-square theory
+
+Reference Book - computer age statistical inference
 
 
 Fixed Effect - kaggle
 
 https://www.kaggle.com/ojwatson/mixed-models?select=data.csv
-
-book - computer age statistical inference
 
 
 # -------------code --------------------
