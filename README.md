@@ -13,7 +13,7 @@ Andrew Yang Course
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
 
-Bloomber Foundation of Machine Learning 
+Bloomberg Foundation of Machine Learning 
 
 https://bloomberg.github.io/foml/#home
 
