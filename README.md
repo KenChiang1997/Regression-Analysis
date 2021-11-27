@@ -17,7 +17,7 @@ Bloomberg Foundation of Machine Learning
 
 https://bloomberg.github.io/foml/#home
 
-CVX Website : 
+CVX Website 
 
 https://www.cvxpy.org/
 
