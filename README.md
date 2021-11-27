@@ -1,6 +1,6 @@
 author : " 江晨立 , ken chiang"
 
-# Logistic_Regression
+# Regression Analysis
 
 
 # -------- Reference -------------
