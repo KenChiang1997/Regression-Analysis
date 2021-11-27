@@ -2,6 +2,7 @@ author : " 江晨立 , ken chiang"
 
 # Regression Analysis
 
+see python implementation in code
 
 # -------- Reference -------------
 NTHU QF Financial Econometrics Exercise [2020 fall semester]
