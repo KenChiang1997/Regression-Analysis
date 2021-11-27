@@ -3,7 +3,7 @@ author : " 江晨立 , ken chiang"
 # Logistic_Regression
 
 
-# --------course and book -------------
+# -------- Reference -------------
 NTHU QF Financial Econometrics Exercise [2020 fall semester]
 
 https://www.youtube.com/user/tonyy271828
@@ -12,10 +12,18 @@ Andrew Yang Course
 
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
 
-Course Content : linear algebra , statistical concept , classical least square theory , generalized least-square theory
+
+Bloomber Foundation of Machine Learning 
+
+https://bloomberg.github.io/foml/#home
+
+CVX Website : 
+
+https://www.cvxpy.org/
 
 Reference Book - computer age statistical inference
 
+Financial Econometrics Course Content : linear algebra , statistical concept , classical least square theory , generalized least-square theory
 
 # -------------code --------------------
 Logistic_regression.py - package of logistic regression 
