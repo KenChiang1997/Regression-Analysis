@@ -1,33 +1,3 @@
-author : " 江晨立 , ken chiang"
-
-# Regression Analysis
-
-see python implementation in code
-
-# -------- Reference -------------
-NTHU QF Financial Econometrics Exercise [2020 fall semester]
-
-https://www.youtube.com/user/tonyy271828
-
-Andrew Yang Course 
-
-https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&ab_channel=ArtificialIntelligence-AllinOne
-
-
-Bloomberg Foundation of Machine Learning 
-
-https://bloomberg.github.io/foml/#home
-
-CVX Website 
-
-https://www.cvxpy.org/
-
-Reference Book - computer age statistical inference
-
-Financial Econometrics Course Content : linear algebra , statistical concept , classical least square theory , generalized least-square theory
-
-
-# --------- infor -----------------------
 
 ![image](https://user-images.githubusercontent.com/80143995/111860830-24716900-8985-11eb-8178-d3f335c996b1.png)
 
